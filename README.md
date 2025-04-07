@@ -60,17 +60,3 @@
   <img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino&logoColor=white"/>
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenzomirabella&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomirabella&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
-
----
-
-### 🧠 Fun Fact
-> I build projects that solve real student needs. One line of code at a time.

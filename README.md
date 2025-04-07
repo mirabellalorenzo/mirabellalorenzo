@@ -13,11 +13,12 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I'm currently working on **[UniSource](https://unisource.site)** – a platform that helps university students share and access academic resources.
-- 🌐 Visit my personal website: [mirabellalorenzo.pw](https://mirabellalorenzo.pw)
-- 🧠 I love building beautiful and functional UIs with **SvelteKit**, **Tailwind**, and **Flutter**.
-- 🔐 I focus on performance, accessibility, and writing clean, secure code.
-- 📫 You can reach me at **mirabellalorenzo03@gmail.com**
+- 🎓 I'm currently studying **Computer Engineering** at **University of Rome Tor Vergata**
+- 💼 I'm building **[UniSource](https://unisource.site)** – a platform that helps university students share and access academic resources
+- 🌐 Check out my portfolio: [mirabellalorenzo.pw](https://mirabellalorenzo.pw)
+- 🧠 I love building beautiful and functional UIs with **SvelteKit**, **Tailwind**, and **Flutter**
+- 🔐 Focused on performance, accessibility, and clean, secure code
+- 📫 Reach me at **mirabellalorenzo03@gmail.com**
 
 ---
 
